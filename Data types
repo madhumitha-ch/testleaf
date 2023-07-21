@@ -8,7 +8,7 @@ public class Data_types {
 		// TODO Auto-generated method stub
 		
 		String Name="Madhu";
-		char Initial='V';
+		char Initial='CH';
 		Float Weight=50.02f;
 		long AccountNum=3456789074330;
 		boolean TL_User=true;
